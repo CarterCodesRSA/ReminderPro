@@ -2,6 +2,8 @@
 
 A simple reminder app that utilizes the current time compared to the time set for the reminder and gives a simple time remainder between now and the set goal time.
 
+<img src='images/reminder.JPG'>
+
 ## Frameworks
 
 - Moment
